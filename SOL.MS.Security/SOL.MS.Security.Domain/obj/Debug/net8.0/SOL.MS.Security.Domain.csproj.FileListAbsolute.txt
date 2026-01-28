@@ -1,0 +1,12 @@
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\bin\Debug\net8.0\SOL.MS.Security.Domain.deps.json
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\bin\Debug\net8.0\SOL.MS.Security.Domain.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\bin\Debug\net8.0\SOL.MS.Security.Domain.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\SOL.MS.Security.Domain.csproj.AssemblyReference.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\SOL.MS.Security.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\SOL.MS.Security.Domain.AssemblyInfoInputs.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\SOL.MS.Security.Domain.AssemblyInfo.cs
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\SOL.MS.Security.Domain.csproj.CoreCompileInputs.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\SOL.MS.Security.Domain.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\refint\SOL.MS.Security.Domain.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\SOL.MS.Security.Domain.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Domain\obj\Debug\net8.0\ref\SOL.MS.Security.Domain.dll

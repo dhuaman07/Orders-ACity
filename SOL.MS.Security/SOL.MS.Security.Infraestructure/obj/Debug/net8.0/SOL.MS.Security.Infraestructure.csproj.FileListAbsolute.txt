@@ -1,0 +1,17 @@
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\bin\Debug\net8.0\SOL.MS.Security.Infraestructure.deps.json
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\bin\Debug\net8.0\SOL.MS.Security.Infraestructure.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\bin\Debug\net8.0\SOL.MS.Security.Infraestructure.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\bin\Debug\net8.0\SOL.MS.Security.Domain.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\bin\Debug\net8.0\SOL.MS.Security.Domain.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.csproj.AssemblyReference.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.AssemblyInfoInputs.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.AssemblyInfo.cs
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.csproj.CoreCompileInputs.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.S.47A53099.Up2Date
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\refint\SOL.MS.Security.Infraestructure.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\ref\SOL.MS.Security.Infraestructure.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\bin\Debug\net8.0\SOL.MS.Security.Infraestructure.runtimeconfig.json
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Infraestructure\obj\Debug\net8.0\SOL.MS.Security.Infraestructure.genruntimeconfig.cache

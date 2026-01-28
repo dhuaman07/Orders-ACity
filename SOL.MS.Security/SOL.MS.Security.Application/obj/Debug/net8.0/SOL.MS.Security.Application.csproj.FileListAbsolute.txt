@@ -1,0 +1,15 @@
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\bin\Debug\net8.0\SOL.MS.Security.Application.deps.json
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\bin\Debug\net8.0\SOL.MS.Security.Application.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\bin\Debug\net8.0\SOL.MS.Security.Application.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\bin\Debug\net8.0\SOL.MS.Security.Domain.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\bin\Debug\net8.0\SOL.MS.Security.Domain.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.Security.Application.csproj.AssemblyReference.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.Security.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.Security.Application.AssemblyInfoInputs.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.Security.Application.AssemblyInfo.cs
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.Security.Application.csproj.CoreCompileInputs.cache
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.S.E4009B93.Up2Date
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.Security.Application.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\refint\SOL.MS.Security.Application.dll
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\SOL.MS.Security.Application.pdb
+D:\AC_Test\Backend\SOL.MS.Security\SOL.MS.Security.Application\obj\Debug\net8.0\ref\SOL.MS.Security.Application.dll

@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SOL.MS.Security.Domain.Services
+{
+    public interface IPasswordHasher
+    {
+        string HashPassword(string password);
+        bool VerifyPassword(string password, string passwordHash);
+    }
+
+   
+    public interface ITokenGenerator
+    {
+        string GenerateAccessToken(string userId, string email, string username);
+        string GenerateRefreshToken();
+    }
+}
